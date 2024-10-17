@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+section{
+    display: inline-block;
+    width: 290px;
+    vertical-align: top;
+    margin-left: 10px;
+}
+img{
+    width: 100%;
+}
+header{
+    padding: 10px;
+    font-size: 25px;
+    background-color: rgba(214, 16, 16, 0.438);
+    color:black;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    box-shadow: 0px 8px 8px rgb(173, 173, 7);
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+main{
+     /* padding: 20px; */
+     display: flex;
+     flex-flow: wrap;
+     justify-content: center;
+}
+h3{
+    font-size: 19px;
+    text-align: justify;
+    
+    font-weight: 500;
+    margin: 8px 0px;
+}
+p{
+    font-size: 18px;
+    text-align: justisy;
+    
+}
+*{
+    font-family: "Karma", serif;
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    padding: 10px;
+}
+.space{
+    padding: 10px;
+}
